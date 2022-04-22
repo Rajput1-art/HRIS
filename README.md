@@ -12,3 +12,5 @@ Currently working on this project
 * PHP
 # FOR database
 * MySql
+# please note
+.gitattribute file contain 3 major files extract them
