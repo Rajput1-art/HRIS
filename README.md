@@ -1,13 +1,14 @@
 # HRIS
 Currently working on this project
 # Tchnical languages used:
-1 For Front end:
+#  For Front end:
 * HTML
 * CSS
 * BOOTSTRAP
 * JAVASCRIPT
 * AJAX
-2 FOR Backend
+
+# FOR Backend
 * PHP
-3 FOR database
+# FOR database
 * MySql
